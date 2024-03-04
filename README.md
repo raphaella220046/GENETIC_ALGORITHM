@@ -10,7 +10,7 @@ Olá, esse é o repositório do trabalho final da Disciplina de Algoritmos Gené
 - [João Caramês](https://github.com/JoaoCarames)
 - Email: joao220064@ilum.cnpem.br
 
-- [Raphaella Siqueira](https://github.com/raphaella220046)
+- [Raphaella Tamyres](https://github.com/raphaella220046)
 - Email: raphaella220046@ilum.cnpem.br
 
 ## Contextualização
