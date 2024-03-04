@@ -18,7 +18,7 @@ Olá, esse é o repositório do trabalho final da Disciplina de Algoritmos Gené
 No âmbito da disciplina de Termodinâmica Avançada, ministrada pelo professor Amauri Jardim de Paula, foi realizado ao longo do semestre, concomitantemente à essa disciplina, um projeto. Esse projeto está ilustrado na imagem abaixo:
 
 <p align="center">
-  <img src="https://github.com/isadoramarcondes/Trabalho_Redes/blob/main/Figuras%20Readme/ProjetoTermodinamica.png">
+  <img src="ProjetoTermodinamica.png">
 </p>
 
 Nele, tivemos a missão de escolher uma mistura binária, formada então por dois compostos, para passar pelas etapas ilustradas, das quais destacamos dois processos, a separação de mistura (destilação fracionada na maioria dos casos) e o ciclo de rankine. Nesse sentido, usaremos esses dois processos para orientar a buscar pela melhor mistura binária.
